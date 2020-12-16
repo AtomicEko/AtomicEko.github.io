@@ -5,77 +5,77 @@
 \margl1440\margr1440\vieww24700\viewh17380\viewkind0
 \pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
 
-\f0\fs24 \cf0 /*BEGIN PS4 Controller Styling*/\
-.controller.ds4 \{\
-    background: url(basemodonetwo.png);\
-    height: 598px;\
-    width: 806px;\
-    /*    margin-left: -403px;\
-        margin-top: -280px;*/\
-\}\
-\
-.ds4 .arrows \{\
-    position: absolute;\
-    width: 352px;\
-    height: 46px;\
-    top: 142px;\
-    left: 227px;\
-\}\
-\
-.ds4 .back, .ds4 .start \{\
-    background: url(startoptionsmodonetwo.png);\
-    width: 28px;\
-    height: 46px;\
-    opacity: 0;\
-\}\
-\
-.ds4 .back.pressed, .ds4 .start.pressed \{\
-    /* background-position-y: -21px; */\
-    /* margin-top: 2px; */\
-    opacity: 1;\
-\}\
-\
-.ds4 .back \{\
-    float: left;\
-    /* width: 28px; */\
-\}\
-\
-.ds4 .start \{\
-    float: right;\
-    /* width: 28px; */\
-    background-position: 28px 0;\
-\}\
-\
-.ds4 .abxy \{\
-    position: absolute;\
-    width: 170px;\
-    height: 171px;\
-    top: 159px;\
-    left: 567px;\
-\}\
-\
-.ds4 .button \{\
-    position: absolute;\
-    width: 55px;\
-    height: 55px;\
-    background: url(facemodonetwo.png);\
-\}\
-\
-.ds4 .button.pressed \{\
-    background-position-y: 55px;\
-    /* margin-top: 5px; */\
-\}\
-\
-.ds4 .a \{\
-    background-position: 0 0;\
-    bottom: 0;\
-    left: 58px;\
-\}\
-\
-.ds4 .b \{\
-    background-position: -57px 0;\
-    top: 58px;\
-    right: 0px;\
+\f0\fs24 \cf0 /*BEGIN PS4 Controller Styling*/
+.controller.ds4 {
+    background: url(basemodonetwo.png);
+    height: 598px;
+    width: 806px;
+    /*    margin-left: -403px;
+        margin-top: -280px;*/
+}
+
+.ds4 .arrows {
+    position: absolute;
+    width: 352px;
+    height: 46px;
+    top: 142px;
+    left: 227px;
+}
+
+.ds4 .back, .ds4 .start {
+    background: url(startoptionsmodonetwo.png);
+    width: 28px;
+    height: 46px;
+    opacity: 0;
+}
+
+.ds4 .back.pressed, .ds4 .start.pressed {
+    /* background-position-y: -21px; */
+    /* margin-top: 2px; */
+    opacity: 1;
+}
+
+.ds4 .back {
+    float: left;
+    /* width: 28px; */
+}
+
+.ds4 .start {
+    float: right;
+    /* width: 28px; */
+    background-position: 28px 0;
+}
+
+.ds4 .abxy {
+    position: absolute;
+    width: 170px;
+    height: 171px;
+    top: 159px;
+    left: 567px;
+}
+
+.ds4 .button {
+    position: absolute;
+    width: 55px;
+    height: 55px;
+    background: url(facemodonetwo.png);
+}
+
+.ds4 .button.pressed {
+    background-position-y: 55px;
+    /* margin-top: 5px; */
+}
+
+.ds4 .a \{
+    background-position: 0 0;
+    bottom: 0;
+    left: 58px;
+}
+
+.ds4 .b {
+    background-position: -57px 0;
+    top: 58px;
+    right: 0px;
 \}\
 \
 .ds4 .x \{\
