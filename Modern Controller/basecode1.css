@@ -19,13 +19,13 @@
     background: url(basestart.png);
     width: 28px;
     height: 46px;
-    opacity: 100;
+    opacity: 0;
 }
 
 .ds4 .back.pressed, .ds4 .start.pressed {
     /* background-position-y: -21px; */
     /* margin-top: 2px; */
-    opacity: 100;
+    opacity: 1;
 }
 
 .ds4 .back {
