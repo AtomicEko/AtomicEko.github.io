@@ -19,7 +19,7 @@
     background: url(basestart.png);
     width: 28px;
     height: 46px;
-    opacity: 0;
+    opacity: 100;
 }
 
 .ds4 .back.pressed, .ds4 .start.pressed {
