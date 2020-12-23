@@ -25,7 +25,7 @@
 .ds4 .back.pressed, .ds4 .start.pressed {
     /* background-position-y: -21px; */
     /* margin-top: 2px; */
-    opacity: 1;
+    opacity: 100;
 }
 
 .ds4 .back {
